@@ -1,0 +1,27 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+i {
+    color: blueviolet;
+}
+i {
+    color: red;
+}
+b {
+    color: palegreen;
+}
+p b {
+    color: blue;
+}
+p b {
+    color: violet;
+}
+p#intro {
+    font-size: 100%;
+}
+p {
+    font-size: 200%;
+}
